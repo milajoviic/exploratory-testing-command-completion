@@ -1,4 +1,4 @@
-# Documentation for exploratory testing the Command Completion functionality in IntelliJ IDEA
+# Documentation for exploratory testing of Command Completion functionality in IntelliJ IDEA
 ## 📁 Test documentation
 -> src
   -> testing
